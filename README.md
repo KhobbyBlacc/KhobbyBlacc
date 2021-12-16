@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhobbyBlacc
-- 👀 I’m interested in software and mobile app development
-- 🌱 I’m currently learning React and express
+- 👀 I’m interested in web, desktop and mobile app development
+- 🌱 A react.js and android developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
