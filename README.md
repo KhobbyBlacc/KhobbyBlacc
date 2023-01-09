@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhobbyBlacc
+- 👋 Hi, I’m @Clinton
 - 👀 I’m interested in web, desktop and mobile app development
 - 🌱 I code react.js and flutter
 - 💞️ I’m looking to collaborate on world changing projects and also assist developers solve problems
